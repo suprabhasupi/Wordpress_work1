@@ -4,7 +4,7 @@ Template Name: Pic Gallery Page
 Author: Suprabha supi
 Author URI: https://github.com/suprabhasupi
 Description: This Template shows five random images from the first gallery of each post. 
-Version: 1.0
+Version: 1.1
 */
 ?>
 <?php 
